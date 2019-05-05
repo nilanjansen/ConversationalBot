@@ -1,0 +1,15 @@
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\bin\Debug\netcoreapp2.1\MyFirstBot.bot
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\bin\Debug\netcoreapp2.1\MyFirstBot.deps.json
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\bin\Debug\netcoreapp2.1\MyFirstBot.runtimeconfig.json
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\bin\Debug\netcoreapp2.1\MyFirstBot.runtimeconfig.dev.json
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\bin\Debug\netcoreapp2.1\MyFirstBot.dll
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\bin\Debug\netcoreapp2.1\MyFirstBot.pdb
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.csprojAssemblyReference.cache
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.csproj.CoreCompileInputs.cache
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.RazorAssemblyInfo.cache
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.RazorAssemblyInfo.cs
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.AssemblyInfoInputs.cache
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.AssemblyInfo.cs
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.RazorTargetAssemblyInfo.cache
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.dll
+C:\Users\Neil\Source\Repos\MyFirstBot\MyFirstBot\obj\Debug\netcoreapp2.1\MyFirstBot.pdb
